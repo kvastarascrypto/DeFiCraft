@@ -1,0 +1,18 @@
+DeFiCraft/
+├── data/
+│   └── defi_data.csv
+├── contracts/
+│   └── DeFiContract.sol
+├── scripts/
+│   ├── __init__.py
+│   ├── fetch_defi_data.py
+│   ├── interact_smart_contract.py
+│   ├── analyze_defi_data.py
+│   ├── visualize_defi_data.py
+│   └── generate_report.py
+├── utils/
+│   ├── __init__.py
+│   └── data_utils.py
+├── truffle-config.js
+├── main.py
+└── README.md
